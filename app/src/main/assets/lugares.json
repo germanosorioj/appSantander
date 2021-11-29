@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Santurban",
+        "description": "El Paramo Santurban es un macizo montañoso considerado monumento nacional desde 1975",
+        "punctuation": "4.0F",
+        "urlPicture": "https://res.cloudinary.com/dtg3eecnd/image/upload/v1637528476/santurban_pmqc73.jpg"
+    },
+    {
+        "name": "Barichara",
+        "description": "Pueblo monumento nacional desde 1975, uno de los pueblos mas bellos de Colombia.",
+        "punctuation": "3.0F",
+        "urlPicture": "https://res.cloudinary.com/dtg3eecnd/image/upload/v1637503550/barichara_vh3ve2.jpg"
+    },
+    {
+        "name": "Cerro del Santisimo",
+        "description": "Ecoparque ubicado en la Vereda Helechales, sector rural de Floridablanca (Santander), conocido por poseer una escultura de Jesus de Nazaret de 35 m de alto.",
+        "punctuation": "5.0F",
+        "urlPicture": "https://res.cloudinary.com/dtg3eecnd/image/upload/v1637528476/cerrosantisimo_jelga4.jpg"
+    },
+    {
+        "name": "Quebrada de Las Gachas",
+        "description": "Hermosa quebrada con jacuzzis naturales. Se encuentra en el municipio de Guadalupe, departamento de Santander, Colombia.",
+        "punctuation": "4.5F",
+        "urlPicture": "https://res.cloudinary.com/dtg3eecnd/image/upload/v1637528476/lasgachas_k38g1d.jpg"
+    },
+    {
+        "name": "Balneario Pozo Azul",
+        "description": "Es un nacimiento de agua cristalina que cuenta con una roca de 6 metros de altura la cual las personas utilizan para lanzarse hasta el agua.",
+        "punctuation": "4.0F",
+        "urlPicture": "https://res.cloudinary.com/dtg3eecnd/image/upload/v1637528476/pozoazul_t7xyri.jpg"
+    }
+]

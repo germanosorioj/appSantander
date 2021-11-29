@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EcoSantander</string>
+    <string name="nombre_barichara">Barichara</string>
+    <string name="descripcion_corta_barichara">Pueblo monumento nacional desde 1975, uno de los pueblos más bellos de Colombia.
+     Constituye un tesoro arquitectónico colonial.
+    </string>
+    <string name="description">detalle Barichara</string>
+</resources>
