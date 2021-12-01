@@ -1,8 +1,19 @@
 <resources>
     <string name="app_name">EcoSantander</string>
-    <string name="nombre_barichara">Barichara</string>
-    <string name="descripcion_corta_barichara">Pueblo monumento nacional desde 1975, uno de los pueblos más bellos de Colombia.
-     Constituye un tesoro arquitectónico colonial.
-    </string>
-    <string name="description">detalle Barichara</string>
+    <string name="titulo">Santurbán</string>
+    <string name="descripcion">El Complejo del Páramo Santurbán se ubica en el noroeste de la Cordillera de Los Andes, integrando territorios de Santander y Norte de Santander. Dentro de su área se destacan: el Parque Natural Regional Santurbán y el complejo lagunario, que comprende una alta riqueza en flora, fauna y microbiota, con bosques andinos. Este santuario es perfecto para las caminatas ecológicas.</string>
+    <string name="cobertura_suelo">¿Sabías qué?</string>
+    <string name="descripcion_cobertura_suelo">"En santurbán se puede encontrar cuatro tipos de zonas tales como vegetación de páramo, bosques andinos, tierras agropecuarias mixtas y humedales. "</string>
+    <string name="clima">El clima</string>
+    <string name="descripcion_clima">El clima típico del páramo se caracteriza por ser frío a extremadamente frío con temperaturas mínimas por debajo de 0ºC y máximas que superan los 35ºC.</string>
+    <string name="imagen_santuban">Santurban</string>
+    <string name="Card_description">El Páramo Santurbán es un macizo montañoso, conocido geográficamente también como \"Nudo de Santurbán\", es considerado monumento nacional desde 1975</string>
+    <string name="calificacion">Calificación</string>
+    <string name="calificacion_nota">5.0</string>
+    <string name="titulo_barichara">Barichara</string>
+    <string name="content_description">Barichara</string>
+    <string name="detalle_barichara">Pueblo monumento nacional desde 1975, uno de los pueblos más bellos y mejor conservados de Colombia constituye un documento arquitectónico de la Colonia. Caminar sus calles empedradas y ver sus casas construidas en tapia pisada, techos de bareque, tejas de barro y paredes pintadas de blanco son el testimonio del pasado.</string>
+    <string name="debes_saber">Debes saber..</string>
+    <string name="debes_Saber_barichara">La mejor época para viajar a Barichara en Colombia es en enero y febrero y diciembre, donde tienes un clima agradable y poco hasta moderado precipitación. La temperatura máxima promedio en Barichara es 26°C en enero y de 24°C en abril.</string>
+
 </resources>

@@ -1,6 +1,5 @@
-package com.fastandroid.ecosantander
+package com.fastandroid.ecosantander.list
 
-import android.util.Half.toFloat
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -8,10 +7,13 @@ import android.widget.ImageView
 import android.widget.RatingBar
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.fastandroid.ecosantander.R
+import com.fastandroid.ecosantander.model.LugarTuristicoItem
 import com.squareup.picasso.Picasso
 
 class LugaresAdapter(
-    private val lugareslist: ArrayList<LugarTuristicoItem>
+    private val lugareslist: ArrayList<LugarTuristicoItem>,
+    private val onItemClicked: (LugarTuristicoItem) ->Unit,
 ) : RecyclerView.Adapter<LugaresAdapter.LugarViewHolder>() {
 
 
@@ -22,6 +24,7 @@ class LugaresAdapter(
 
     override fun onBindViewHolder(holder: LugarViewHolder, position: Int) {
         val lugarturistico = lugareslist[position]
+        holder.itemView.setOnClickListener{ onItemClicked(lugareslist[position])}
         holder.bind(lugarturistico)
     }
 

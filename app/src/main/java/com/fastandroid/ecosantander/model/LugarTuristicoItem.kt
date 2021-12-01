@@ -1,7 +1,8 @@
-package com.fastandroid.ecosantander
+package com.fastandroid.ecosantander.model
 
 
 import com.google.gson.annotations.SerializedName
+import java.io.Serializable
 
 data class LugarTuristicoItem(
     @SerializedName("description")
@@ -13,4 +14,4 @@ data class LugarTuristicoItem(
     @SerializedName("urlPicture")
     val urlPicture: String
 
-)
+):Serializable
